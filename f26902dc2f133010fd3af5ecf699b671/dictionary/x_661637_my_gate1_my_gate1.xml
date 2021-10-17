@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="My Gate1" max_length="40" name="x_661637_my_gate1_my_gate1" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="resident" max_length="40" name="resident" type="string"/>
+        <element label="visitor" max_length="40" name="visitor" type="string"/>
+    </element>
+</database>
